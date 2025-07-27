@@ -1,0 +1,5 @@
+- mariadb-server
+- ⁠apache2
+- — domain
+- ⁠— wordpres
+- ⁠——- plungin
